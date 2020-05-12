@@ -6,6 +6,9 @@ if array.length == 1
 elsif array.length == 2 
 return "#{array[0]} and #{array[1]}"
 
-end
+ elsif array >= 3
+ 
+ 
+ end
 end
 
