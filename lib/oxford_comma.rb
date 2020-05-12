@@ -10,7 +10,7 @@ return "#{array[0]} and #{array[1]}"
  new_last_element = "and #{array[-1]}"
  array.pop
  array.push(new_last_element)
- return array.join(",")
+ return array.join(", ")
  
  end
 end
